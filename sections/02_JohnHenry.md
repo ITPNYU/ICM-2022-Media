@@ -9,7 +9,7 @@
 
 ## Dates
 
-1. Wednesday, October 7
+1. Wednesday, October 26
 2. Wednesday, November 2
 3. Wednesday, November 9
 4. Wednesday, November 16
