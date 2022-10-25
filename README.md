@@ -16,13 +16,13 @@ The following is an overview of how we will be spending class time over the next
 
 ## Section Info
 
-* 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Media/wiki/Homework-MimiY-01)
-* 02 [John-Henry](sections/02_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Media/wiki/Homework-John-Henry-02)
-* 03 [Allison](sections/03_Allison.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2022-Media/wiki/Homework-Allison)
-* 04 [Mimi](sections/04_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Media/wiki/Homework-MimiY-04)
-* 05 [Emily](sections/05_Emily.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Media/wiki/Homework-Emily)
-* 06 [Ellen](sections/06_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Media/wiki/Homework-Ellen-06)
-* 07 [John-Henry](sections/07_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Media/wiki/Homework-John-Henry-07)
+- 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Media/wiki/Homework-MimiY-01)
+- 02 [John-Henry](sections/02_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Media/wiki/Homework-John-Henry-02)
+- 03 [Allison](sections/03_Allison.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2022-Media/wiki/Homework-Allison)
+- 04 [Mimi](sections/04_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Media/wiki/Homework-MimiY-04)
+- 05 [Emily](sections/05_Emily.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Media/wiki/Homework-Emily)
+- 06 [Ellen](sections/06_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Media/wiki/Homework-Ellen-06)
+- 07 [John-Henry](sections/07_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Media/wiki/Homework-John-Henry-07)
 
 ## Questions and Discussion
 
@@ -44,11 +44,12 @@ The following is an overview of how we will be spending class time over the next
 
 # Policies
 
-## Class Meetings Fall 2021
+<!-- ## Class Meetings Fall 2021
 
 The class meetings for Fall 2021 will be held over teleconference, at the scheduled class times. Should conditions allow, instructors will make their own arrangements for outside-of-class-meeting activities on the ITP floor at 370 Jay St., such as office hours, review sessions, or whatever is deemed safe and appropriate.
 
 Although a considerable amount of the class material is available online, you should attend the class meetings whenever possible. This class is a workshop and seminar, not a lecture class. It relies heavily on group discussion and participation in class time. If you cannot attend at the class time, please talk to your instructor or advisor in advance to figure out an alternative plan. We will do everything we can to accommodate students, but we need to know in advance in order to do so.
+ -->
 
 ## Evaluation
 
