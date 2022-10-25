@@ -4,9 +4,9 @@
 *The videos in this section were created using a different editor for p5.js. All of the concepts should still apply, however, there are some minor changes. Most notably in JavaScript `let` is now the preferred way to declare a variable over `var`. If you would like to learn more about this you can [watch this video about let vs var](https://youtu.be/q8SHaDQdul0).*
 
 ### Reading
-* [Why Isn't the Sky Blue?](https://www.wnycstudios.org/podcasts/radiolab/segments/211213-sky-isnt-blue)
+* [Why Isn't the Sky Blue?](https://radiolab.org/episodes/211119-colors)
 * [Computational Color](http://printingcode.runemadsen.com/lecture-color/) (Don't worry about Rune.js example code.)
-* [Make your pictures beautiful with a touch of deep learning magic](https://towardsdatascience.com/make-your-pictures-beautiful-with-a-touch-of-machine-learning-magic-31672daa3032) v. [The Mona Lisa](https://en.wikipedia.org/wiki/Mona_Lisa)
+* [Make your pictures beautiful with a touch of deep learning magic](https://towardsdatascience.com/make-your-pictures-beautiful-with-a-touch-of-machine-learning-magic-31672daa3032)
 * [Introduction to Neural Networks and Pixel Analysis](https://www.youtube.com/watch?v=aircAruvnKk) (20 minutes, but be prepared to spend an hour. Don't try to watch on 2x speed.)
 
 ### Examples for Computational Color
