@@ -5,6 +5,8 @@
 * [Solfege Tutorial](https://www.jonbjorkmusic.com/tutorials) | [Video](https://www.youtube.com/watch?v=mEopSLv5oas)
 * [Signing, Singing, Speaking: How Language Evolved](https://www.npr.org/templates/story/story.php?storyId=129155123)
 * [Why repeating words sound like music to your brain](https://www.theverge.com/2018/6/8/17443170/repeating-words-sound-to-song-auditory-illusion)
+* [How to write a melody.](https://www.edmprod.com/ultimate-melody-guide/)
+* [Ben Folds Composes Song LIVE for Orchestra in 10 minutes](https://www.youtube.com/watch?v=BytUY_AwTUs)
 
 ### Reference
 * [Diatonic Scale Interval Ratios](https://en.wikipedia.org/wiki/Interval_(music)#Size_of_intervals_used_in_different_tuning_systems)
