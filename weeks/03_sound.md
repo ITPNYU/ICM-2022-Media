@@ -6,7 +6,7 @@
 Can we analyze our way to good music?
 
 ### Readings
-* [What is consciousness?](https://www.wnycstudios.org/podcasts/radiolab/segments/91503-the-unconscious-toscanini-of-the-brain)
+* [Consciousness is an orchestra.](https://radiolab.org/episodes/91503-the-unconscious-toscanini-of-the-brain)
 * [Problems with FFT](http://sites.music.columbia.edu/cmc/MusicAndComputers/chapter3/03_05.php)
 
 ### Video Tutorials
